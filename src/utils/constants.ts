@@ -1,4 +1,4 @@
-const Base_URL = 'https://74oizp5jokuebdp6cjg42nqgva0lcayp.lambda-url.eu-west-3.on.aws'
+const Base_URL = 'https://7gedhvb3y6uf4vbv7jzqyzhg7e0rmkyz.lambda-url.us-east-1.on.aws'
 
 
 export {
